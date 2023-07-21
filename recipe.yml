@@ -87,3 +87,4 @@ firstboot:
   flatpaks:
     - io.github.celluloid_player.Celluloid
     - com.github.micahflee.torbrowser-launcher
+    - com.visualstudio.code
