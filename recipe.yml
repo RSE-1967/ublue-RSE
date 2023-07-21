@@ -86,4 +86,4 @@ firstboot:
   # This is just an example selection:
   flatpaks:
     - io.github.celluloid_player.Celluloid
-    - org.kde.krita
+    - com.github.micahflee.torbrowser-launcher
